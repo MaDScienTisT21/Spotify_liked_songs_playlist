@@ -1,4 +1,4 @@
-#Spotify Liked Songs into a Public Playlist
+# Spotify Liked Songs into a Public Playlist
 
 You can add all your Liked Spotify songs to a public Playist and then can share it.
 
