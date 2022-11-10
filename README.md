@@ -1,5 +1,8 @@
 # Spotify Liked Songs into a Public Playlist
 
-You can add all your Liked Spotify songs to a public Playist and then can share it.
+As we all know that there is no option to share the like songs. Hence, to overcome his problem, I created this python script to automate this process.
 
-You will need to install spotipy - Module in python.
+Add your client_id and client_secret in the secrets.py file.
+Share the playlist and copy the playlist id inplaylist_id.
+
+Then run the script.py file.
