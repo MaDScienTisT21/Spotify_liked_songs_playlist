@@ -1,0 +1,4 @@
+Install spotify module using :
+pip install spotipy
+
+Spotipy module for using Spotify Oauth.
